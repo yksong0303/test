@@ -1,6 +1,6 @@
 package gitTest;
 
 public class Testgit {
-   //¤¾¤·¤¾¤·
+   //ã…Žã…‡ã…Žã…‡
 
 }
